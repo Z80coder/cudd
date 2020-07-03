@@ -52,10 +52,10 @@
 /*---------------------------------------------------------------------------*/
 
 #include <math.h>
-#include "config.h"
-#include "st.h"
-#include "mtr.h"
-#include "epd.h"
+#include "../config.h.in"
+#include "../st/st.h"
+#include "../mtr/mtr.h"
+#include "../epd/epd.h"
 #include "cudd.h"
 
 /*---------------------------------------------------------------------------*/
